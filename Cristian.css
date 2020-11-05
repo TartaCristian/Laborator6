@@ -1,0 +1,24 @@
+body {
+ background-color:lightblue;
+ }
+ a { font-style:italic;
+ font-size:18px;
+ }
+ h1 {
+  color: black;
+  margin-left: 10px;
+}
+ h1 { font-family:"Verdana";
+         font-style:italic;
+		 font-size:20px;
+		 color:orange;
+ }
+ 
+   img {border: 2px  yellow;
+   width:100px;
+   display:block;
+   margin-left: auto;
+    margin-right: auto;
+  opacity:0.50;
+   }  
+
